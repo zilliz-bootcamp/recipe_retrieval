@@ -50,7 +50,7 @@ The configuration file config.py in service explains:
 
 ## Steps to build a project
 
-1. Install [Milvus](https://milvus.io/cn/docs/v0.10.2/milvus_docker-cpu.md).
+1. Install [Milvus0.10.4](https://milvus.io/cn/docs/v0.10.4/milvus_docker-cpu.md).
 2. Install MySql.
 3. Clone project
 
