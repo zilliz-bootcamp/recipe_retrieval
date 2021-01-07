@@ -72,6 +72,7 @@ python load.py
 ```
 
 > Before importing, check whether the path of the parameter `data_path` in `config.py` is correct.
+> Note: This process takes a long time
 
 
 
