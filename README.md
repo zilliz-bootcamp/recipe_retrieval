@@ -76,7 +76,7 @@ python load.py
 
 
 
-6. start servuce
+6. start service
 
 ```shell
 uvicorn main:app
@@ -84,7 +84,7 @@ uvicorn main:app
 
 
 
-7. Start the client
+7. start client
 
 ```
 docker run -d -p 80:80 -e API_URL=http://127.0.0.1:8000 zilliz/milvus-search-food-recipes:latest
