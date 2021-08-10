@@ -1,3 +1,5 @@
+:exclamation::exclamation: **This repo will no longer be maintained, please visit https://github.com/milvus-io/bootcamp** :exclamation: :exclamation:
+
 # README
 
 This project implements a picture and recipe retrieval system based on milvus. That is, input a food picture and return the recipe corresponding to the picture.
